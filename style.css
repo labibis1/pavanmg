@@ -22,7 +22,8 @@ body{
 
 
 
-/* ========================= Nav Start ============================    */
+
+/* ========================= Nav Start ==============================    */
 
 
 nav{
@@ -33,7 +34,6 @@ nav{
 nav .nav_wrapper{
     display: flex;
     justify-content: space-between;
-    /* margin-top: 41px; */
 }
 
 nav .navitems ul{
