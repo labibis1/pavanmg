@@ -40,13 +40,19 @@ nav .navitems ul{
     display: flex;
     gap: 60px;
 }
-
-nav .navitems ul li{
+nav .navitems ul li {
     list-style: none;
+}
+nav .navitems ul li a{
+    text-decoration: none;
     font-size: 20px;
     line-height: 26px;
     font-weight: 500px;
     color: #A7A7A7;
+}
+nav .navitems ul li a:hover{
+    font-size: 20px;
+    color: #ffffff;
 }
 
 
